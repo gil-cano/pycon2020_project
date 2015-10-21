@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "python_interpreter_path": "/Users/gil/fciencias/20161_TDI/pycon2020_dev/bin/python",
+    }
+}

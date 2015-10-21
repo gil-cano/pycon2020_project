@@ -1,0 +1,932 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tim",
+				"timezone	module"
+			],
+			[
+				"get",
+				"get_object_or_404	function"
+			],
+			[
+				"Tra",
+				"TrackAdmin	class"
+			],
+			[
+				"Tal",
+				"TalkInline"
+			],
+			[
+				"Mode",
+				"ModelAdmin	class"
+			],
+			[
+				"T",
+				"Track	class"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"w",
+				"warning-spent"
+			],
+			[
+				"student",
+				"studentrecord	param"
+			],
+			[
+				"stu",
+				"studentrecord"
+			],
+			[
+				"stude",
+				"studentname"
+			],
+			[
+				"cm",
+				"campuses	statement"
+			],
+			[
+				"ca",
+				"campus	statement"
+			],
+			[
+				"no",
+				"None	keyword"
+			],
+			[
+				"preson",
+				"person_classification"
+			],
+			[
+				"class",
+				"classification	param"
+			],
+			[
+				"pers",
+				"person_classification"
+			],
+			[
+				"cal",
+				"classification	param"
+			],
+			[
+				"portal",
+				"portal_type"
+			],
+			[
+				"st",
+				"students_ids	statement"
+			],
+			[
+				"in",
+				"information"
+			],
+			[
+				"templat",
+				"template"
+			],
+			[
+				"po",
+				"portal_types"
+			],
+			[
+				"un",
+				"uninstallProducts"
+			],
+			[
+				"inta",
+				"installer"
+			],
+			[
+				"por",
+				"portal"
+			],
+			[
+				"as",
+				"assertIn"
+			],
+			[
+				"bw",
+				"browserlayer"
+			],
+			[
+				"dar",
+				"darkgreen"
+			],
+			[
+				"nombra",
+				"nombramiento_trimesters"
+			],
+			[
+				"an",
+				"AnnualReportFolder"
+			],
+			[
+				"grou",
+				"groups"
+			],
+			[
+				"selct",
+				"SelectWidget"
+			],
+			[
+				"re",
+				"return	keyword"
+			],
+			[
+				"I",
+				"ImportError	class"
+			],
+			[
+				"g",
+				"group	statement"
+			],
+			[
+				"port",
+				"portal_membership"
+			],
+			[
+				"porta",
+				"portal_groups"
+			],
+			[
+				"gro",
+				"groupname"
+			],
+			[
+				"impl",
+				"implements	function"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"import",
+				"important-dates"
+			],
+			[
+				"co",
+				"conference"
+			],
+			[
+				"c",
+				"conference"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"json",
+				"jsonfiles	statement"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"with",
+				"width"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"str",
+				"string	param"
+			],
+			[
+				"so",
+				"sort_on"
+			],
+			[
+				"fol",
+				"folder_path	statement"
+			],
+			[
+				"article",
+				"articles"
+			],
+			[
+				"Ap",
+				"AppendixView	class"
+			],
+			[
+				"lis",
+				"listen_socket	statement"
+			],
+			[
+				"SOc",
+				"SOCK_STREAM	class"
+			],
+			[
+				"AF_",
+				"AF_INET	class"
+			],
+			[
+				"cla",
+				"classification	forflow"
+			],
+			[
+				"se",
+				"setHeader"
+			],
+			[
+				"s",
+				"strftime"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"n",
+				"newline"
+			],
+			[
+				"save",
+				"savedfile	statement"
+			],
+			[
+				"rese",
+				"researcher"
+			],
+			[
+				"are",
+				"areas	statement"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"oc",
+				"ocde_data"
+			],
+			[
+				"iter",
+				"iteritems"
+			],
+			[
+				"ite",
+				"iteritems"
+			],
+			[
+				"a",
+				"affiliation	statement"
+			],
+			[
+				"entr",
+				"entry	forflow"
+			],
+			[
+				"wi",
+				"without_affiliation	statement"
+			],
+			[
+				"va",
+				"valid_entries	statement"
+			],
+			[
+				"woe",
+				"wosnames	statement"
+			],
+			[
+				"wosna",
+				"wosnames	statement"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"file",
+				"filename	statement"
+			],
+			[
+				"bas",
+				"base_url_do	statement"
+			],
+			[
+				"auth",
+				"authors	statement"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"cona",
+				"container_string"
+			],
+			[
+				"cou",
+				"country	statement"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"ISEc",
+				"ISectionBlueprint"
+			],
+			[
+				"ISE",
+				"ISection"
+			],
+			[
+				"ima",
+				"imateCVct"
+			],
+			[
+				"ad",
+				"advisors	statement"
+			],
+			[
+				"im",
+				"imateCVct"
+			],
+			[
+				"dic",
+				"dictionary	param"
+			],
+			[
+				"sche",
+				"schemataNames	statement"
+			],
+			[
+				"Less",
+				"Less"
+			],
+			[
+				"we",
+				"wservice"
+			],
+			[
+				"egg",
+				"eggs"
+			],
+			[
+				"csv",
+				"csvfile	statement"
+			],
+			[
+				"pub",
+				"pub	forflow"
+			],
+			[
+				"pr",
+				"print	function"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"Color",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"con",
+				"configurationContext	param"
+			],
+			[
+				"is",
+				"isProductInstalled"
+			],
+			[
+				"portal_",
+				"portal_quickinstaller"
+			],
+			[
+				"ME",
+				"MessageFactory	import"
+			],
+			[
+				"i18",
+				"i18nmessageid	import"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pcal",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 138.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gil/fciencias/20161_TDI/pycon2020_dev/pycon2020_project"
+	],
+	"file_history":
+	[
+		"/Users/gil/Desktop/TDI/TeamTreeHouse - Django Basics/Project Files/Django Basics/s6v3/learning_site/courses/tests.py",
+		"/Users/gil/Desktop/TDI/TeamTreeHouse - Django Basics/Project Files/Django Basics/s6v1/learning_site/courses/tests.py",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/talks/urls.py",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/talks/views.py",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/pycon2020_site/urls.py",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/talks/templates/talks/track_list.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/talks/templates/talks/talk_list.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/templates/layout2.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/intro.rst",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/templates/home.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/talks/templates/talks/track_details.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/talks/models.py",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/django/src/pycon2020_site/talks/admin.py",
+		"/Users/gil/fciencias/20151_TDI/tdi2016.sublime-project",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.event/mate.events",
+		"/Users/gil/nginx.conf",
+		"/Users/gil/projects/plone/matem-buildout/buildout.cfg",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/content/solicitud.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/solicitud_edit.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/resources/print.css",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/locales/es/LC_MESSAGES/matem.solicitudes.po",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/locales/manual.pot",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/browser/templates/managerfolder_view.pt",
+		"/Users/gil/.buildout/eggs/Products.PDBDebugMode-1.3.1-py2.7.egg/Products/PDBDebugMode/browser.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/browser/views.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/handlers.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/vocabularies.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/browser/configure.zcml",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/browser/templates/allapplications_view.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/profiles/default/workflows/manager_folder_workflow/definition.xml",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/profiles/default/workflows/student_record_workflow/definition.xml",
+		"/Users/gil/projects/plone/matem-buildout/parts/omelette/eea/facetednavigation/browser/template/macros.pt",
+		"/Users/gil/projects/plone/matem-buildout/parts/omelette/eea/facetednavigation/views/preview-items.pt",
+		"/Users/gil/projects/plone/matem-buildout/parts/omelette/plonetheme/sunburst/skins/sunburst_templates/main_template.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/folderpendientes.pt",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/src/css/grid-print.css",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.fsdextender/src/matem/fsdextender/browser/classification_tabular_view.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.fsdextender/src/matem/fsdextender/indexers.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.fsdextender/src/matem/fsdextender/browser/classification_view.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.fsdextender/src/matem/fsdextender/extenders/person.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/configure.zcml",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/export.py",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/02-bootstrap.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/src/02.html",
+		"/Users/gil/projects/plone/scholarship-notes/rtfbecas.py",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/html/app/01-html.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/html/app/01-xhtml.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/html/example02.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/html/example01.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/html/HTML5.rst",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/example01.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/css/site-styles.css",
+		"/Users/gil/Dropbox/con mi panchi/libros/TDI/CSS/Mastering Responsive Web Design with HTML5 and CSS3/B02102_02_Code/20 - Full HTML5 example page.html",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/content/project.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/browser/cvfolder_summary.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/browser/projectsearch_resultsview.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/browser/projectsearch_resultsview.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/locales/es/LC_MESSAGES/UNAM.imateCVct.po",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/folder.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/config.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/content/solicitudbecario.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/content/solicitudvisitante.py",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/css.rst",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/03.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/css/main03.css",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/css/main.css",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/02.html",
+		"/Users/gil/fciencias/20151_TDI/tdi.doc/css/initializr/01.html",
+		"/Users/gil/Downloads/initializr/index.html",
+		"/Users/gil/fciencias/20161_TDI/webforms/webapp.py",
+		"/Users/gil/fciencias/20161_TDI/feedback.html",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/buildout.cfg",
+		"/Users/gil/Downloads/haproxy/haproxy.cfg",
+		"/Users/gil/Downloads/haproxy/haproxy.cfg_orig",
+		"/Users/gil/Downloads/haproxy/haproxy.cfg~",
+		"/Users/gil/Downloads/haproxy/haproxy.cfg.dpkg-old",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/podiff.txt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/global_request_search_form.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/misenviadas.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/content/solicitudinstitucional.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/content/solicitudfolder.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/search_form.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/solicitudvisitante.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/solicitudinstitucional.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/solicitud.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/misaprobadas.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/misrechazadas.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/presupuesto_folder.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/micuenta.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/generaractas.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/folderrechazadas.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/folderaprobadas.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/folderpendientessede.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/solicitudbecario.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/browser/projectsearch.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/vocabularies.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/content/baseActivity.py",
+		"/Users/gil/.buildout/eggs/Products.Archetypes-1.9.7-py2.7.egg/Products/Archetypes/utils.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/UNAM.imateCVct/src/UNAM/imateCVct/content/studieprogram.py",
+		"/Users/gil/projects/plone/matem-buildout/parts/omelette/Products/CMFPlone/skins/plone_ecmascript/inline_validation.js",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.solicitudes/src/matem/solicitudes/browser/folderfactories.py",
+		"/Users/gil/projects/plone/congresos/nudos.theme/buildout.cfg",
+		"/Users/gil/projects/plone/congresos/nudos.theme/parts/omelette/Products/PloneFormGen/content/fields.py",
+		"/Users/gil/.buildout/eggs/Products.Archetypes-1.9.10-py2.7.egg/Products/Archetypes/browser/validation.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.event/src/matem/event/browser/news_comments.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.event/src/matem/event/browser/views.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.event/src/matem/event/browser/news_imstandard.pt",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.event/src/matem/event/browser/configure.zcml",
+		"/Users/gil/.buildout/eggs/Products.ZCatalog-2.13.27-py2.7.egg/Products/ZCatalog/Catalog.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/adapters.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/managerfolder.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/behaviors/activitiesreport.py",
+		"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis/browser/import.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/src/UNAM/imateCVct/tests/test_project.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/src/UNAM/imateCVct/testing.py",
+		"/Users/gil/projects/plone/plonetrainingdx.testing/src/plonetrainingdx/testing/tests/test_task.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/src/UNAM/imateCVct/setuphandlers.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/src/UNAM/imateCVct/profiles/default/import_steps.xml",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/src/UNAM/imateCVct/tests/test_setup.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/src/UNAM/imateCVct/browser/reportsend.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/parts/omelette/Products/CMFPlone/interfaces/factory.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/parts/omelette/Products/CMFCore/TypesTool.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/parts/omelette/Products/CMFCore/tests/test_TypesTool.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/parts/omelette/Products/Archetypes/docs/quickref.rst",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/parts/omelette/Products/Archetypes/AllowedTypesByIface.py",
+		"/Users/gil/projects/plone/matem/UNAM.imateCVct/parts/omelette/plone/app/discussion/tests/test_comment.py",
+		"/Users/gil/projects/plone/plonetraining.testing/src/plonetraining/testing/testing.py",
+		"/Users/gil/projects/plone/plonetraining.testing/src/plonetraining/testing/tests/test_setup.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/gil/projects/plone/matem-buildout/src-git/matem.sis/src/matem/sis",
+			"",
+			"/Users/gil/projects/plone/matem/UNAM.imateCVct/src",
+			"/Users/gil/projects/plone/matem/UNAM.imateCVct/parts/omelette",
+			"/Users/gil/projects/plone/matem/UNAM.imateCVct/",
+			"/Users/gil/projects/plone/matem/UNAM.imateCVct/src/UNAM/imateCVct",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"urls.py",
+			"urls",
+			"talk_list.html",
+			"talks/views.py",
+			"admin.py",
+			"models.py",
+			"talks/models.py",
+			"models",
+			"Available Institucional Allocation",
+			"fuzzy",
+			"label_save_preview",
+			"Vista previa",
+			"label_save_preview",
+			"License Application",
+			"Solicitud de Licencia/Comision",
+			"antes de llenar esta",
+			"UserNameAndEmail",
+			"usernam",
+			"UserNameAndEmail",
+			"url",
+			"campus_vocabulary",
+			"students",
+			"capplications",
+			"getStudentsWithoutApplication",
+			"userdata",
+			"reindexObjectSecurity",
+			"manage_setLocalRoles",
+			"studentmanager",
+			"@",
+			"get_macro",
+			"preview-items",
+			"abovecontenttitle",
+			"plone",
+			"belowcontenttitle",
+			"fill",
+			"main",
+			"tecnicos",
+			"Directory",
+			"fsdfullname",
+			"sortedPeople",
+			"add_cv",
+			"add_delete_cv",
+			"transmogrify",
+			"Correo",
+			"translate",
+			"tranlate",
+			"phd",
+			"Mastery",
+			"mastery",
+			"PHD",
+			"Masters",
+			"Mastery",
+			"Undergraduate",
+			"PHD",
+			"NIVEL",
+			"Doctorado",
+			"PHD",
+			"<metal:default_body use-macro=\"here/edit_macros/macros/body\">",
+			"fuzzy",
+			"help_project_number",
+			"label_project_number",
+			"help_project_id",
+			"label_project_id",
+			"default",
+			"default\ndefault",
+			"fuzzy",
+			"Institutional License Application",
+			"Airplane",
+			"PHD",
+			"Mastery",
+			"Undergraduate",
+			"label_quantity_days",
+			"fuzzy",
+			"label_requested_quantity",
+			"fuzzy",
+			"label_school_practices",
+			"fuzzy",
+			"School practices",
+			"label_school_practices",
+			"fuzzy",
+			"Institutional License Application",
+			"label_search_cantidad_larger",
+			"label_requested_quantity",
+			"label_search_cantidad_lower",
+			"help_school_practices",
+			"label_school_practices",
+			"label_cantidad_recomendada_pasaje",
+			"label_cantidad_recomendada_viaticos",
+			"label_cantidad_recomendada_inscripcion",
+			"label_cantidad_consejo_pasaje",
+			"label_cantidad_consejo_viaticos",
+			"label_cantidad_consejo_inscripcion",
+			"label_cantidad_autorizada_pasaje",
+			"label_cantidad_autorizada_viaticos",
+			"label_cantidad_autorizada_inscripcion",
+			"label_cantidad_recomendada_pasaje_institucional",
+			"label_cantidad_recomendada_viaticos_institucional",
+			"label_cantidad_recomendada_inscripcion_institucional",
+			"label_cantidad_consejo_pasaje_institucional",
+			"label_cantidad_consejo_viaticos_institucional",
+			"label_cantidad_consejo_inscripcion_institucional",
+			"label_cantidad_autorizada_pasaje_institucional",
+			"label_cantidad_autorizada_viaticos_institucional",
+			"label_cantidad_autorizada_inscripcion_institucional",
+			"help_institucion_procedencia",
+			"help_apoyo_extra",
+			"label_apoyo_texto",
+			"help_pais_procedencia",
+			"help_ciudad_procedencia",
+			"label_cantidad_autorizada_viaticos",
+			"label_cantidad_autorizada_inscripcion",
+			"label_cantidad_recomendada_pasaje_institucional",
+			"label_cantidad_recomendada_viaticos_institucional",
+			"label_cantidad_recomendada_inscripcion_institucional",
+			"label_cantidad_consejo_pasaje_institucional",
+			"label_cantidad_consejo_viaticos_institucional",
+			"label_cantidad_consejo_inscripcion_institucional",
+			"label_cantidad_autorizada_pasaje_institucional",
+			"label_cantidad_autorizada_viaticos_institucional",
+			"label_cantidad_autorizada_inscripcion_institucional",
+			"help_institucion_procedencia",
+			"help_apoyo_extra",
+			"label_apoyo_texto",
+			"help_pais_procedencia",
+			"help_ciudad_procedencia",
+			"label_licenciacomision",
+			"label_cantidad_recomendada_viaticos_institucional",
+			"label_actaci"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<th i18n:translate=\"label_quantity_days\">days</th>",
+			"logoescuela.png",
+			"imusmm",
+			",",
+			"\",\"",
+			"reptheory",
+			"100"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pycon.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"soli",
+				"src/matem/solicitudes/content/solicitud.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

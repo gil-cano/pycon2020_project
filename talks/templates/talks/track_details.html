@@ -1,0 +1,15 @@
+{% extends "layout2.html" %}
+
+{% block title %}{{ track.title }}{% endblock %}
+
+{% block content %}
+<article>
+    <h1> {{ track.title }} </h1>
+    <section>
+        {% for talk in track.talk_set.all %}
+            <h2> {{ talk.title }} </h2>
+            {{talk.description }}
+        {% endfor %}
+    </section>
+</article>
+{% endblock %}

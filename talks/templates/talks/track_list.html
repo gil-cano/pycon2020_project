@@ -1,0 +1,18 @@
+{% extends "layout2.html" %}
+
+{% block title %}2020{% endblock %}
+
+{% block content %}
+
+ <div class="row">
+    {% for track in tracks %}
+        <div class="col-md-4">
+            <h2>{{ track.title }}</h2>
+            <p>{{ track.place }}</p>
+            {# <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> #}
+            {# <p><a class="btn btn-default" href="{% url 'track' pk=track.pk %}" role="button">View details &raquo;</a></p> #}
+            <p><a class="btn btn-default" href="{% url 'tracks:details' pk=track.pk %}" role="button">View details &raquo;</a></p>
+        </div>
+    {% endfor %}
+</div>
+{% endblock%}

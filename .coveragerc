@@ -1,0 +1,9 @@
+[report]
+include =
+    assets/*
+    pycon2020_site/*
+    talks/*
+    templates/*
+omit =
+    */test*
+    */migrations/*
