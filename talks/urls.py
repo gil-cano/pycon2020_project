@@ -6,4 +6,5 @@ urlpatterns = [
     url(r'^$', views.track_list, name='list'),
     # url(r'(?P<pk>\d+)/$', views.talk_details),
     url(r'(?P<pk>\d+)/$', views.track_details, name='details'),
+    url(r'^new/$', views.track_new, name='track_new'),
 ]

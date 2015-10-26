@@ -1,6 +1,8 @@
 from django.http import HttpResponse
-from django.shortcuts import render
 from django.shortcuts import get_object_or_404
+from django.shortcuts import redirect
+from django.shortcuts import render
+from .forms import TrackForm
 from .models import Talk
 from .models import Track
 
@@ -31,3 +33,14 @@ def track_details(request, pk):
 def track_list(request):
     tracks = Track.objects.all()
     return render(request, 'talks/track_list.html', {'tracks': tracks})
+
+
+def track_new(request):
+    if request.method == "POST":
+        form = TrackForm(request.POST)
+        if form.is_valid():
+            track = form.save()
+            return redirect('tracks:details', pk=track.pk)
+    else:
+        form = TrackForm()
+    return render(request, 'talks/track_edit.html', {'form': form})
